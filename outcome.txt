@@ -1,0 +1,9 @@
+The final player stats: 
+Name: Elden
+Moves played: 20
+Attack: 7
+Defense: 6
+Captured: 8
+Lost: 3
+
+Elden has won the game!
